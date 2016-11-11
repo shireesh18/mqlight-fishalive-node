@@ -16,4 +16,4 @@ applications:
   memory: 128M
   host: mqlight-fishalive-node-${random-word}
   services:
-  - MQLight-sampleservice
+  - cadc-messagehub
