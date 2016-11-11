@@ -9,7 +9,7 @@ applications:
   no-route: true
   services:
   - cadc-messagehub
-- name:  mql.fishalive.node.frontend
+- name:  mqlight-fishalive-node
   disk: 1024M
   command: node app.js
   path: frontend
